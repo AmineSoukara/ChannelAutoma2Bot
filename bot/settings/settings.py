@@ -156,7 +156,7 @@ class Development(Base):
                 'ON_POOL_SIZE': 32,
             },
             {
-                'TOKEN': '1171352300:AAF65g66cx_17rJzVXR4Z3n7aYqIcQsTSB8',
+                'TOKEN': '1542664706:AAHdfgzu1p_WApeVvgeoFIVmkmIx-cEchVQ',
                 'MESSAGEQUEUE_ENABLED': True,
                 'ASYNC_WORKERS': 16,
                 'ON_POOL_SIZE': 32,
